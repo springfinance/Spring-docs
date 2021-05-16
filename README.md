@@ -9,7 +9,7 @@ description: >-
 
 ## SPRING FINANCE will take DeFi experiences to the next level 
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
 Here at SPRING FINANCE, we are a team of few blockchain enthusiasts who have been devoted to the blockchain industry since 2017. When we first started working together as a team, there were nearly no real use cases applying blockchain technology with a meaningful ways. However, **we knew that in near future the decentralized services will penetrate into the real world.**
 
@@ -32,7 +32,7 @@ With a certain condition met on sFarms by staking a reasonable amount of SPRING 
 
 ## Library
 
-![](.gitbook/assets/image%20%2824%29.png)
+![](.gitbook/assets/image%20%2846%29.png)
 
 DYOR is always the number one principle for DeFi users. However, as more and more DeFi projects through various chains \(Binance chain, Etherium, Solana, Polygon, Terra, etc.\) launches, it is extremely hard for users to find the best service that fit on them. At Library users can search any pair \(LPs\) or crypto they own. Then they can 1\) find out services with the best yield 2\) see the estimated transaction cost and 3\) directly invest through SPRING FINANCE.
 

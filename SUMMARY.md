@@ -10,6 +10,7 @@
 * [Garden](core-product/garden/README.md)
   * [Gardener](core-product/garden/sseeds.md)
   * [Flower Picking](core-product/garden/sflowers.md)
+* [Library](core-product/library.md)
 
 ## Tokenomics <a id="spring"></a>
 
