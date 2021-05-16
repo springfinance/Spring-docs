@@ -8,17 +8,17 @@ sVaults is **an automatic yield compounding service** with the greatest yield op
 
 ![](../../.gitbook/assets/image%20%2854%29.png)
 
-### **Vault Component & Details**
+## **Vault Component & Details**
 
 | Vault Component | Details |
 | :--- | :--- |
-| Platform  | Each vault has target platforms where the tokens are invested in. \(e.g. LPs to Pancakeswap, single tokens to Venus\) |
+| Platform | Each vault has target platforms where the tokens are invested in. \(e.g. LPs to Pancakeswap, single tokens to Venus\) |
 | Asset | Asset shows the specific token \(LP, single token\) the vault is dedicated. \(e.g. SPRING-BNB LP, BTCB\) |
 | Type | Staking or Auto-Compounding |
 | $SPRING multiplier | Multiplier \(e.g. 1x\) is the volume and the size of each vault. Bigger the multiplier, the better chance to get higher interest. |
-| Contract  | Contract link will lead to Scan page where to find the smart contract behind the vault. |
+| Contract | Contract link will lead to Scan page where to find the smart contract behind the vault. |
 
-### APY Calculation Factors & Details
+## APY Calculation Factors & Details
 
 <table>
   <thead>
@@ -54,7 +54,7 @@ sVaults is **an automatic yield compounding service** with the greatest yield op
   </tbody>
 </table>
 
-### Fee Calculation Factors & Details
+## Fee Calculation Factors & Details
 
 <table>
   <thead>

@@ -1,20 +1,18 @@
 # Gardener
 
-### **DETAILED INFORMATION  WILL BE UPDATED SHORTLY**
+## **DETAILED INFORMATION  WILL BE UPDATED SHORTLY**
 
-  
 **1. Buy SEED**
 
 ![](../../.gitbook/assets/image%20%2819%29.png)
 
 Every week the Gardener lets the users to buy the limited number of SEEDs with SPRING in their wallets. With the SEEDS on their wallet, they can pick flowers.
 
-**2. Evaluate Flowers**  
-
+**2. Evaluate Flowers**
 
 ![](../../.gitbook/assets/image%20%2825%29.png)
 
-The users can bring the flowers \(NFT token\) from Flower Picking and see how much the tokens are hidden and the worth. 
+The users can bring the flowers \(NFT token\) from Flower Picking and see how much the tokens are hidden and the worth.
 
 **3. Break Flower**
 

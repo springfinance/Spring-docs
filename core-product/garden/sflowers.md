@@ -1,6 +1,6 @@
 # Flower Picking
 
-### DETAILED **INFORMATION WILL BE UPDATED SHORTLY**
+## DETAILED **INFORMATION WILL BE UPDATED SHORTLY**
 
 ![](../../.gitbook/assets/image%20%2831%29.png)
 

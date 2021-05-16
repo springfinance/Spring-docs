@@ -8,7 +8,7 @@ sFarms is **a smart contract where sFarms users can deposit LP tokens** and rece
 
 ![](../../.gitbook/assets/image%20%2821%29.png)
 
-### Supported Pairs \(as-of-DATE\)
+## Supported Pairs \(as-of-DATE\)
 
 <table>
   <thead>
@@ -63,8 +63,8 @@ sFarms is **a smart contract where sFarms users can deposit LP tokens** and rece
   </tbody>
 </table>
 
-**Of all $SPRING minted, 30% of SPRING tokens will be rewarded to sFarms!** \(up to 390 $SPRINGS daily\)  
-  
+**Of all $SPRING minted, 30% of SPRING tokens will be rewarded to sFarms!** \(up to 390 $SPRINGS daily\)
+
 Reward Multiplier: The multiplier represents the amount of SPRING rewards each farm gets.  
 Deposit Fee: Some pairs would require deposit fee \(entrance fee\) which would be dedicated to 1\) buy-back and burn SPRING tokens from supply and 2\) Dev fund to sustainable growth of SPRING FINANCE.
 

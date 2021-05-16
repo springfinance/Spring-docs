@@ -13,10 +13,8 @@
 
 ## Tokenomics <a id="spring"></a>
 
----
-
-* [Token - $SPRING](token-spring.md)
-* [Token - $SEED](gardening-token.md)
+* [Token - $SPRING](spring/token-spring.md)
+* [Token - $SEED](spring/gardening-token.md)
 
 ## Our Vision & Roadmap
 
