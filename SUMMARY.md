@@ -27,7 +27,6 @@
 ## How-Tos <a id="how-to"></a>
 
 * [Guide to Spring](how-to/guide-to-spring.md)
-* [Guide to Garden](how-to/guide-to-fishing-ground.md)
 
 ## Security
 
