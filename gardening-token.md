@@ -12,5 +12,5 @@ description: >-
 
 ### SUPPLY TO $SPRING TOKEN HOLDERS VARIES EVERY WEEK
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%283%29%20%281%29.png)
 
