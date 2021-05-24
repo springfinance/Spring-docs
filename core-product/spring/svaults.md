@@ -8,6 +8,23 @@ sVaults is **an automatic yield compounding service** with the greatest yield op
 
 ![](../../.gitbook/assets/image%20%2854%29.png)
 
+### **Vault List \(Phase 1\)**
+
+Considering current volatile market situation, we've selected farms and pools with the most TVL and stability at PancakeSwap for Phase 1. We will add more vaults along with the market condition. $SPRING reward to vaults would be 55% of total $SPRING 
+
+| \# | **Vault** | Platform | Reward Pool |
+| :--- | :--- | :--- | :--- |
+| 1 | CAKE | PancakeSwap |  |
+| 2 | CAKE/BNB | PancakeSwap |  |
+| 3 | BUSD/BNB | PancakeSwap |  |
+| 4 | USDT/BUSD | PancakeSwap |  |
+| 5 | ETH/BNB | PancakeSwap |  |
+| 6 | BTCB/BNB | PancakeSwap |  |
+| 7 | USDT/BNB | PancakeSwap |  |
+| 8 | USDC/BUSD | PancakeSwap |  |
+| 9 | DAI/BUSD | PancakeSwap |  |
+| 10 | UST/BUSD | PancakeSwap |  |
+
 ### **Vault Component & Details**
 
 | Vault Component | Details |
