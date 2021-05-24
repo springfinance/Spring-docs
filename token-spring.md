@@ -12,7 +12,7 @@ description: SPRING token is the native token of SPRING FINANCE
 
 **Chain:** Binance Smart Chain \(BEP-20\)
 
-### **Ma**x Supply: 1,000,000 $SPRING
+### **Ma**x Supply: 2,000,000 $SPRING
 
 ![](.gitbook/assets/image%20%2864%29.png)
 
@@ -21,9 +21,10 @@ description: SPRING token is the native token of SPRING FINANCE
 $SPRING are minted linearly starting from DATE-DATE-DATE and will end approximately during DATE-DATE-DATE regarding 3 years service roadmap.  
 ****To make sure fair distribution of $SPRING, only SPRING FINANCE users can mine $SPRING from sVaults, sFarms and Garden.
 
-* **0.03 $SPRING / block**
-* **~868 $SPRING tokens daily**
-* **$SPRING will be distributed for 1095 days starting from the launch.**
+* **0.06 $SPRING / block**
+* **~1808 $SPRING tokens daily**
+* **$SPRING will be distributed for 1095 days starting from the launch**
+* **20,000 $SPRING out of total 2,000,000 $SPRING will be pre-minted to provide liquidity**
 
 **Distribution**
 
