@@ -10,7 +10,7 @@ sVaults is **an automatic yield compounding service** with the greatest yield op
 
 ### **Vault List \(Phase 1\)**
 
-Considering current volatile market situation, we've selected farms and pools with the most TVL and stability at PancakeSwap for Phase 1. We will add more vaults along with the market condition. $SPRING reward to vaults would be 55% of total $SPRING 
+Considering current volatile market situation, we've selected farms and pools with the most TVL and stability at PancakeSwap for Phase 1. We will add more vaults along with the market condition. Total 55% of $SPRING would be distributed to the vaults.
 
 | \# | **Vault** | Platform | Reward Pool |
 | :--- | :--- | :--- | :--- |
