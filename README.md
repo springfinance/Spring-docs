@@ -11,11 +11,11 @@ description: >-
 
 ![](.gitbook/assets/image%20%2824%29.png)
 
-Here at SPRING FINANCE, we are a team of few blockchain enthusiasts who have been devoted to the blockchain industry since 2017. When we first started working together as a team, there were nearly no real use cases applying blockchain technology in meaningful ways. However, **we knew that in near future the decentralized services will penetrate the real world.**
+Here at SPRING FINANCE, we are a team of few blockchain enthusiasts who have been devoted to the blockchain industry since 2017. When we first started working together as a team, there were nearly no real use cases applying blockchain technology in meaningful ways. However, **we knew that decentralized services will penetrate the real world shortly soon.**‌
 
-Now new incomers such as financial institutions, governments, big-techs, manufacturers, SMEs, and individual investors are showing interest in the blockchain industry. They look into NFTs to use in the metaverse. They try to record data on a blockchain. They invest in Bitcoin. They study cryptocurrencies to create Central Bank Digital Currency. We realized that **now is the time to think about what would a user want when blockchain-based services became popular and common.**
+Now new incomers such as financial institutions, governments, big-techs, manufacturers, SMEs, and individual investors are showing interest in the blockchain industry. They look into NFTs to use in the metaverse. They try to record data on a blockchain. They invest in Bitcoin. They study cryptocurrencies to create Central Bank Digital Currency. We realized that **now is the time to think about what would a user want when blockchain-based services became popular and common.**‌
 
-With a user-oriented perspective, our team decided to start **SPRING FINANCE to optimize DeFi experiences through 1\) Yield optimizer 2\) NFT gamification 3\) DeFi search engine.** Please look into our core products \(Spring & Garden\) which will bring a truly entertaining financial experience to our fans and community.
+Our team decided to start **SPRING FINANCE with a user-oriented perspective to optimize DeFi experiences through 1\) Yield optimizer 2\) NFT gamification 3\) DeFi search engine.** Please look into our core products \(Spring, Garden, and Library\), bringing a truly entertaining financial experience to our fans and community.
 
 ## Spring
 
