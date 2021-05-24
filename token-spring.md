@@ -14,7 +14,7 @@ description: SPRING token is the native token of SPRING FINANCE
 
 ### **Ma**x Supply: 1,000,000 $SPRING
 
-![](.gitbook/assets/image%20%2862%29.png)
+![](.gitbook/assets/image%20%2864%29.png)
 
 **Block Emissions**
 
