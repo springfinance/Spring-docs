@@ -35,8 +35,9 @@ $SPRING are minted linearly starting from DATE-DATE-DATE and will end approximat
 
 **Deflationary Mechanisms**
 
-* **sVaults Buy Back Fee:** From ~10% of Vault fee on vault users' profit, 3% are used to buy-back and burn out of $SPRING supply.
+* **sVaults Buy Back Fee:** From ~2% of Vault fee on vault users' profit, 1% are used to buy-back and burn out of $SPRING supply.
 * **sFarms Deposit Fee:** From ~3% deposit fee charged at staking, 2% are used to buy-back and burn out of $SPRING supply.
 * **SEED:** 100% of $SPRING tokens used to swap with SEED will be burn out of $SPRING supply.
-* **Transfer Tax:** $SPRING will burn 0.5% every transfer. \(e.g. deposit, withdrawals, send, swap, etc.\)
+* **Transfer Tax:** $SPRING will be burn 0.5% every transfer. \(e.g. deposit, withdrawals, send, swap, etc.\)
+* **Library Partnership:** 50% of $SPRING will be burned out of $SPRING supply
 
