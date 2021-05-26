@@ -30,11 +30,11 @@ Our team decided to start **SPRING FINANCE with a user-oriented perspective to o
 
 With a certain condition met on sFarms by staking a reasonable amount of SPRING LPs, the users will be allowed to enter our unique garden. The Garden is the most unique service that makes us the next generation project among any other players in DeFi Landscape.
 
-## Library
+## Plant Book
 
-![](.gitbook/assets/image%20%2846%29.png)
+![](.gitbook/assets/image%20%2871%29.png)
 
-DYOR is always the number one principle for DeFi users. However, as more and more DeFi projects through various chains \(Binance chain, Etherium, Solana, Polygon, Terra, etc.\) launch, it is extremely hard for users to find the best service that fits them. At Library users can search any pair \(LPs\) or crypto they own. Then they can 1\) find out services with the best yield 2\) see the estimated transaction cost and 3\) directly invest through SPRING FINANCE.
+DYOR is always the number one principle for DeFi users. However, as more and more DeFi projects through various chains \(Binance chain, Etherium, Solana, Polygon, Terra, etc.\) launch, it is extremely hard for users to find the best service that fits them. With Plant Book users can search any pair \(LPs\) or crypto they own. Then they can 1\) find out services with the best yield 2\) see the estimated transaction cost and 3\) directly invest through SPRING FINANCE.
 
 ### 
 
