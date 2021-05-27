@@ -12,18 +12,20 @@ sVaults is **an automatic yield compounding service** with the greatest yield op
 
 Considering current volatile market situation, we've selected farms and pools with the most TVL and stability at PancakeSwap for Phase 1. We will add more vaults along with the market condition. Total 55% of $SPRING would be distributed to the vaults.
 
-| \# | **Vault** | Platform |
-| :--- | :--- | :--- |
-| 1 | CAKE | PancakeSwap |
-| 2 | CAKE/BNB | PancakeSwap |
-| 3 | BUSD/BNB | PancakeSwap |
-| 4 | USDT/BUSD | PancakeSwap |
-| 5 | ETH/BNB | PancakeSwap |
-| 6 | BTCB/BNB | PancakeSwap |
-| 7 | USDT/BNB | PancakeSwap |
-| 8 | USDC/BUSD | PancakeSwap |
-| 9 | DAI/BUSD | PancakeSwap |
-| 10 | UST/BUSD | PancakeSwap |
+| \# | **Vault** | Platform | Multiplier |
+| :--- | :--- | :--- | :--- |
+| 1 | CAKE | PancakeSwap | 25x |
+| 2 | CAKE/BNB | PancakeSwap | 20x |
+| 3 | BUSD/BNB | PancakeSwap | 10x |
+| 4 | USDT/BUSD | PancakeSwap | 5x |
+| 5 | ETH/BNB | PancakeSwap | 10x |
+| 6 | BTCB/BNB | PancakeSwap | 10x |
+| 7 | USDT/BNB | PancakeSwap | 5x |
+| 8 | USDC/BUSD | PancakeSwap | 5x |
+| 9 | DAI/BUSD | PancakeSwap | 5x |
+| 10 | UST/BUSD | PancakeSwap | 5x |
+
+_\* Multipliers on each vault may be changed when new vault launching with clear announcement prior to the updates_
 
 ### **Vault Component & Details**
 
