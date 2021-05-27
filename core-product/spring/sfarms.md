@@ -10,14 +10,14 @@ sFarms is **a smart contract where sFarms users can deposit LP tokens** and rece
 
 ### Supported Pairs \(PHASE 1\)
 
-| \# | Pairs | Deposit Fee |
-| :--- | :--- | :--- |
-| 1 | SPRING/BNB Farm | 1% |
-| 2 | SPRING/CAKE Farm | 1% |
-| 3 | SPRING/BUSD Farm | 1% |
-| 4 | BNB/BUSD Farm | 3% |
-| 5 | CAKE/BNB Farm | 3% |
-| 6 | BTCB/BNB Farm | 3% |
+| \# | Pairs | Deposit Fee | Multiplier |
+| :--- | :--- | :--- | :--- |
+| 1 | SPRING/BUSD Farm | 1% | 40x |
+| 2 | SPRING/BNB Farm | 1% |  |
+| 3 | SPRING/CAKE Farm | 1% |  |
+| 4 | BNB/BUSD Farm | 3% |  |
+| 5 | CAKE/BNB Farm | 3% |  |
+| 6 | BTCB/BNB Farm | 3% |  |
 
 Reward Multiplier: The multiplier represents the amount of SPRING rewards each farm gets.  
 Deposit Fee: Some pairs would require deposit fee \(entrance fee\) which would be dedicated to 1\) buy-back and burn SPRING tokens from supply and 2\) Dev fund to sustainable growth of SPRING FINANCE.
